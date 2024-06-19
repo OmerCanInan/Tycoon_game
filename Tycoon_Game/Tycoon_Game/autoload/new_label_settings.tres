@@ -1,8 +1,0 @@
-[gd_resource type="LabelSettings" load_steps=2 format=3 uid="uid://gnsrht7wdimk"]
-
-[ext_resource type="FontFile" uid="uid://d4in16lbhq5ts" path="res://fonts/PlaywriteIS-Light.ttf" id="1_feg1c"]
-
-[resource]
-font = ExtResource("1_feg1c")
-font_size = 36
-font_color = Color(0, 0, 0, 0.917647)
